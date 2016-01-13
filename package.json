@@ -1,5 +1,5 @@
 {
-  "name": "gh-home",
+  "name": "gh-upstream",
   "version": "1.0.0",
   "description": "Open the GitHub page of the upstream remote for the repo in the current directory",
   "license": "MIT",

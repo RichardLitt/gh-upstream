@@ -1,0 +1,56 @@
+{
+  "name": "gh-home",
+  "version": "1.0.0",
+  "description": "Open the GitHub page of the upstream remote for the repo in the current directory",
+  "license": "MIT",
+  "repository": "RichardLitt/gh-upstream",
+  "author": {
+    "name": "Richard Littauer",
+    "email": "richard.littauer@gmail.com",
+    "url": "burntfen.com"
+  },
+  "bin": {
+    "gh-home": "cli.js",
+    "gh": "cli.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "github",
+    "git",
+    "gh",
+    "repo",
+    "repository",
+    "page",
+    "home",
+    "open",
+    "cwd",
+    "current",
+    "directory",
+    "upstream",
+    "remote"
+  ],
+  "dependencies": {
+    "git-remote-upstream-url": "^2.0.0",
+    "github-url-from-git": "^1.4.0",
+    "meow": "^3.7.0",
+    "opn": "^3.0.3"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "execa": "^0.2.2",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  }
+}

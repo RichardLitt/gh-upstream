@@ -22,7 +22,7 @@ $ gh-upstream --help
 
 ## Related
 
-- [gh-home](https://github/com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory
+- [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package
 
 

@@ -1,5 +1,7 @@
 # gh-upstream [![Build Status](https://travis-ci.org/RichardLitt/gh-upstream.svg?branch=master)](https://travis-ci.org/RichardLitt/gh-upstream)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/gh-upstream.svg)](https://greenkeeper.io/)
+
 > Open the GitHub page of the upstream remote for the repo in the current directory
 
 
